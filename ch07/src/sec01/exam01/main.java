@@ -7,8 +7,8 @@ public class main {
 		 Truck truck = new Truck(80, 200);
 		 
 		
-		 truck.Showspeed();
 		 car = truck;
+		 truck.Showspeed();
 		 car.Showspeed();
 		 
 		 System.out.println("car speed is"
